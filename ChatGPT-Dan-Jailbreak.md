@@ -8,7 +8,7 @@
 
 [p2]: https://www.youtube.com/watch?v=rHZRrDu3A2U&lc=UgxfrxX8aK7gnCzkend4AaABAg
 
-## Notee
+## Note
 
 It seems to help to completely clear your "Application Cache" (Cookies, Storage, etc) for https://chat.openai.com. You can do this from the browser developer tools console in the "Applications" tab.
 
